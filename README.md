@@ -1,8 +1,6 @@
 # Implement Guess Number
 Implement Guess Number In Java 
 
-
-That is a project which is given in Fundamentals Of Programming lecture from Computer Science Department in Isik University in Turkey. 
 In this project;
   
   Implement Guess a number program. Guess a number is a game, where the user tries to guess a (3 or 4) digit target number which is randomly chosen by the computer.
